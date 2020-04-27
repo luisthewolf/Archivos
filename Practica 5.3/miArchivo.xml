@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula peli_id="1">
+    <titulo>Zootopia</titulo>
+    <año>2016</año>
+    <genero>Comedia</genero>
+    <clasificacion>A</clasificacion>
+  </pelicula>
+<pelicula peli_id="2"><titulo>Rápido y furioso: reto Tokio</titulo><año>2006</año><genero>Acción</genero><clasificacion>A</clasificacion></pelicula></peliculas>
