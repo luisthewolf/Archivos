@@ -1,0 +1,7 @@
+{"peliculas": [
+    {"id" : "1", "Titulo" : "Frozen 2", "Año" : "2019", "Genero" : "Animacion", "Clasificacion" : "A"},
+    {"id" : "2", "Titulo" : "Aves De Presa", "Año" : "2020", "Genero" : "Accion", "Clasificacion" : "R"},
+    {"id" : "3", "Titulo" : "Back To The Future", "Año" : "1985", "Genero" : "Ciencia Ficcion", "Clasificacion" : "PG"},
+    {"id" : "4", "Titulo" : "Black Widow", "Año" : "2020", "Genero" : "Accion", "Clasificacion" : "R"},
+    {"id" : "5", "Titulo" : "El Conjuro 2", "Año" : "2016", "Genero" : "Terror", "Clasificacion" : "B"}
+    ]}
