@@ -1,0 +1,16 @@
+.ct-series-a .ct-line {
+  stroke: yellow;
+  stroke-width: 10px;
+  
+}
+
+.subt {
+  display: block;
+  color: red;
+  
+  font-size: large;
+}
+
+.centro {
+  text-align: center;
+}
